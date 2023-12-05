@@ -2009,6 +2009,19 @@
         transition: all .3s ease;
     
     }
+.foter-sec .container  .logo a{
+    color:#000;
+    font-size: 1.9rem;
+    font-family: 'Courier Prime', monospace;
 
+
+}
+.foter-sec .container  .logo a span{
+    color:#000;
+    font-size: 2rem;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 800;
+
+}
 
 }
